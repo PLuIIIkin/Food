@@ -299,7 +299,7 @@ window.addEventListener('DOMContentLoaded', () => {
       const statusMessage = document.createElement('div');
       statusMessage.src = messaga.loading;
       statusMessage.style.cssText = `
-        display: 'block';
+        display: block;
         margin: 0 auto;
       `;
       
